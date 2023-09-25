@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936257818760",
+    "project_id": "flavor-bistro",
+    "storage_bucket": "flavor-bistro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936257818760:android:4fd1a17608f0998e4b4f3d",
+        "android_client_info": {
+          "package_name": "com.example.flavor_bistro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNX37jl_DE_dXMFBUm-MoYosQLISfH0cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
